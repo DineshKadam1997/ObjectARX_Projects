@@ -11,7 +11,7 @@ This simple drawing tool collects user information and creates text objects to d
    - Build and load the resulting DLL in AutoCAD.
  
 2. **Enter Command:**
-   - In AutoCAD, enter the custom command (e.g. "USERINFO") to activate the tool.
+   - In AutoCAD, enter the custom command (e.g. "UserInformation") to activate the tool.
  
 3. **Provide User Information:**
    - The tool will prompt you to enter your age and name.
