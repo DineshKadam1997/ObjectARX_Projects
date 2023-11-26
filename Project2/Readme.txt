@@ -1,4 +1,4 @@
-The application defines a custom command, "MYCOMMAND," which prints the message "Hello in the World of AutoCAD" to the AutoCAD command line.
+The application defines a custom command, "AddCommand," which prints the message "Hello in the World of AutoCAD" to the AutoCAD command line.
 
 Steps:
 Build Debug Version:
